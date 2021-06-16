@@ -1,0 +1,71 @@
+Summarize An Article Using Adaptive Text Summarization API With IBM Cloud
+Overview
+This project helps us in getting the summary of long articles which can save our time.
+In this project we develop a code which takes the articles as input and process it using available summarizing techniques and gives us the summary of the entire article as output.
+Purpose
+With such a big amount of data circulating in the digital space, there is need to develop
+ machine learning algorithms that can automatically shorten longer texts and deliver
+ accurate summaries that can fluently pass the intended messages.
+Furthermore, applying text summarization reduces reading time, accelerates the process of researching for information.
+
+Solution
+There are two main approaches to summarizing text documents; they are:
+1. Extractive Methods.
+2. Abstractive Methods
+Extractive based summarization:
+Extractive text summarization involves the selection of phrases and sentences from the source document to make up the new summary. Techniques involve ranking the relevance of phrases in order to choose only those most relevant to the meaning of the source.
+Abstractive based summarization:
+Abstractive text summarization involves generating entirely new phrases and sentences to capture the meaning of the source document. This is a more challenging approach, but is also the approach ultimately used by humans. Classical methods operate by selecting and compressing content from the source document.
+Generally, most successful text summarization methods are extractive because it is an easier approach, but abstractive approaches hold the hope of more general solutions to the problem.
+Even in this project we have used extractive summarization.
+Flow-Chart
+	
+
+
+
+
+
+
+
+
+Result
+Input
+
+
+Output
+
+Advantages and Disadvantages
+Advantages:
+1.Works Instantly
+2.Works in any language
+3.Improves productivity
+4.Does not miss important facts
+Disadvantages:
+1.Yet, many problems can go by unnoticed
+2.Respondents may Misunderstand questions
+3.Use inappropriate judgment strategies
+4.Provide socially desirable answer
+
+
+Applications:
+1. Media monitoring
+2. Newsletters
+3. Internal document workflow
+4.Financial research
+5.Social media marketing
+6.Question answering and bots
+7.Video scripting
+8. Email overload
+9.E-learning and class assignments
+10.Meetings and video-conferencing
+
+Conclusion:
+Automatic text summarization is the task of producing a concise and fluent summary while preserving key information content and overall meaning.
+It is not enough to just generate words and phrases that capture the gist of the source document. The summary should be accurate and should read fluently as a new standalone document.
+
+
+[ The respective files for the developemnt of this project are uploaded in the github
+Github link: https://github.com/smartinternz02/SI-GuidedProject-2457-1622115756/upload
+
+
+
